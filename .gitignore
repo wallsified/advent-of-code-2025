@@ -15,3 +15,6 @@ uv.lock
 
 # style
 .ruff_cache
+
+input.txt
+results.md
